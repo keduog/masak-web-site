@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmasak_web_site=self.webpackChunkmasak_web_site||[]).push([[6151],{9122:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/masak-web-site/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmasak_web_site=self.webpackChunkmasak_web_site||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/masak-web-site/blog","blogTitle":"Blog","authorsListPath":"/masak-web-site/blog/authors"}')}}]);
